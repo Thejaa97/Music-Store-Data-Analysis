@@ -31,3 +31,6 @@ Portfolio Project using SQL
 ![Slide12](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/cd0f6a3a-83cd-4340-92d7-45e9374a31ec)
 
 ![Slide13](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/314682b7-abcc-4424-839b-d12d250318a9)
+
+![Slide14](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/f951275b-8695-4f8e-9e09-8e3618341ca9)
+
