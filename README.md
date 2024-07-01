@@ -1,13 +1,13 @@
-## Music-Store-Data-Analysis
-# Portfolio Project using SQL
+# Music-Store-Data-Analysis
+Portfolio Project using SQL
 
-# Database and Tools
+## Database and Tools
 * PgAdmin4
 * Postgre SQL
 
-# Presentation
+## Presentation
 
-![Slide1](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/a9ce3d70-85ab-427b-a2f5-3e849d5925d4)
+
 ![Slide2](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/9771b877-669e-49da-b1d1-bf34b9bec059)
 ![Slide3](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/fa3b35ba-0b70-4d95-a5ca-49c5a4129779)
 ![Slide4](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/23274d5b-62ad-40cb-9d4b-d2c9b85e8ed2)
@@ -22,4 +22,3 @@
 ![Slide13](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/314682b7-abcc-4424-839b-d12d250318a9)
 ![Slide14](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/f951275b-8695-4f8e-9e09-8e3618341ca9)
 ![Slide15](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/ee01ec16-a327-4fae-8db0-6776fd95c8b3)
-![Slide16](https://github.com/Thejaa97/Music-Store-Data-Analysis/assets/170193307/c4a28986-3856-4b6f-8dee-6e7dd30c870d)
